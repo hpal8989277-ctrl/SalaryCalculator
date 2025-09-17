@@ -3,7 +3,7 @@ public class SalaryCalculator {
     public static void main(String[] args) {
 
         //Salary Calculator -
-        // Code Updated
+        // Code Updated - 2nd time
         
         Scanner sc = new Scanner(System.in);
         System.out.print("enter your salary : ");
