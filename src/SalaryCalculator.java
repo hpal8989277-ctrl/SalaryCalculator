@@ -1,7 +1,10 @@
 import java.util.Scanner;
 public class SalaryCalculator {
     public static void main(String[] args) {
-            Scanner sc = new Scanner(System.in);
+
+        //Salary Calculator
+        
+        Scanner sc = new Scanner(System.in);
         System.out.print("enter your salary : ");
         double salary = sc.nextDouble();
 
