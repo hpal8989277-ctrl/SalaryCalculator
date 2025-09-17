@@ -2,7 +2,8 @@ import java.util.Scanner;
 public class SalaryCalculator {
     public static void main(String[] args) {
 
-        //Salary Calculator - 
+        //Salary Calculator -
+        // Code Updated
         
         Scanner sc = new Scanner(System.in);
         System.out.print("enter your salary : ");
